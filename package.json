@@ -1,0 +1,16 @@
+{
+    "name": "rmdirp",
+    "description": "Recursively rmdir, like `rmdir -p`",
+    "version": "0.1.0",
+    "author": "Bastien Clément <g@ledric.me>",
+    "main": "./index",
+    "keywords": [
+        "rmdir",
+        "directory"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/galedric/node-rmdirp.git"
+    },
+    "license": "MIT"
+}
